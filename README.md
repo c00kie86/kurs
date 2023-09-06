@@ -35,4 +35,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Demo
 
-- [kurs-tawny.vercel.app](https://kurs-tawny.vercel.app) - check demo
+- [next13masters-dev.vercel.app](https://next13masters-dev.vercel.app/) - check demo
